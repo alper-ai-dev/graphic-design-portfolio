@@ -1,59 +1,72 @@
 # Alper Sancar — Graphic Design Portfolio
 
-Selected advertising, graphic design and creative direction projects.
+**Advertising · Creative Direction · Social Media · Typography · Product & Brand Visuals**
 
-> **Portfolio note:** Unless explicitly marked as client work, the projects presented here are self-initiated concept projects created to demonstrate art direction, advertising design, typography, visual systems and commercial campaign thinking.
+A selection of commercial advertising and visual communication studies developed across beauty, real estate, jewelry, food, fashion, footwear, fitness, furniture and B2B categories.
 
-## Selected Disciplines
+> **Portfolio note:** Unless explicitly marked as client work, the projects below are self-initiated concept projects created to demonstrate art direction, advertising design, typography, visual systems and commercial campaign thinking.
 
-- Advertising & Campaign Design
-- Creative Direction
-- Social Media Design
-- Brand Visual Systems
-- Typography & Layout
-- Product Advertising
-- 3D / CGI-Style Visualization
-- B2B Communication
+## Selected Work
 
-## Portfolio Sections
+<p align="center">
+<img src="portfolio-01.jpg" width="32%" alt="Graphic design portfolio project 01">
+<img src="portfolio-02.jpg" width="32%" alt="Graphic design portfolio project 02">
+<img src="portfolio-03.jpg" width="32%" alt="Graphic design portfolio project 03">
+</p>
 
-### E-Commerce & Beauty
-Commercial beauty and product campaigns focused on product hierarchy, editorial art direction and conversion-oriented communication.
+<p align="center">
+<img src="portfolio-04.jpg" width="32%" alt="Graphic design portfolio project 04">
+<img src="portfolio-05.jpg" width="32%" alt="Graphic design portfolio project 05">
+<img src="portfolio-06.jpg" width="32%" alt="Graphic design portfolio project 06">
+</p>
 
-### Real Estate
-Residential and property-launch concepts combining architectural imagery with premium campaign systems.
+<p align="center">
+<img src="portfolio-07.jpg" width="32%" alt="Graphic design portfolio project 07">
+<img src="portfolio-08.jpg" width="32%" alt="Graphic design portfolio project 08">
+<img src="portfolio-09.jpg" width="32%" alt="Graphic design portfolio project 09">
+</p>
 
-### Beauty & Aesthetic
-Service-focused beauty campaigns with distinct visual positioning, from editorial care to advanced skin-analysis concepts.
+<p align="center">
+<img src="portfolio-10.jpg" width="32%" alt="Graphic design portfolio project 10">
+<img src="portfolio-11.jpg" width="32%" alt="Graphic design portfolio project 11">
+<img src="portfolio-12.jpg" width="32%" alt="Graphic design portfolio project 12">
+</p>
 
-### Jewelry
-High-jewelry and engagement campaigns built around material, light, macro detail and luxury storytelling.
+<p align="center">
+<img src="portfolio-13.jpg" width="32%" alt="Graphic design portfolio project 13">
+<img src="portfolio-14.jpg" width="32%" alt="Graphic design portfolio project 14">
+<img src="portfolio-15.jpg" width="32%" alt="Graphic design portfolio project 15">
+</p>
 
-### Food & Restaurant
-Food advertising concepts designed around authentic product photography and sector-specific visual identities.
+<p align="center">
+<img src="portfolio-16.jpg" width="32%" alt="Graphic design portfolio project 16">
+<img src="portfolio-17.jpg" width="32%" alt="Graphic design portfolio project 17">
+<img src="portfolio-18.jpg" width="32%" alt="Graphic design portfolio project 18">
+</p>
 
-### Fashion
-Fashion campaigns exploring editorial photography, custom typography, movement and seasonal collection identities.
+<p align="center">
+<img src="portfolio-19.jpg" width="32%" alt="Graphic design portfolio project 19">
+<img src="portfolio-20.jpg" width="32%" alt="Graphic design portfolio project 20">
+<img src="portfolio-21.jpg" width="32%" alt="Graphic design portfolio project 21">
+</p>
 
-### Footwear
-Streetwear, performance-running and evening-footwear campaigns, each developed with product-specific visual and typographic logic.
+<p align="center">
+<img src="portfolio-22.jpg" width="32%" alt="Graphic design portfolio project 22">
+</p>
 
-### Fitness
-Strength and performance campaigns in which typography, photography and composition derive from the physical training concept.
+## Capabilities
 
-### Furniture & Product Visualization
-Furniture campaigns combining product visualization, material realism, set design and experimental typography.
+Advertising & Campaign Design · Creative Direction · Social Media Design · Brand Visual Systems · Typography & Layout · Product Advertising · 3D / CGI-Style Visualization · B2B Communication
 
-### Corporate B2B
-Conceptual campaigns for precision manufacturing and professional services, translating complex business propositions into clear visual ideas.
+## Project Scope
 
-## Client Work
+The portfolio explores multiple commercial sectors and intentionally uses different composition systems, typography, photography, color strategies and campaign objectives rather than a single repeated visual template.
 
-Selected real-world client work will be presented separately and clearly identified as **Client Work**.
+**Categories represented:** E-Commerce & Beauty · Real Estate · Beauty & Aesthetic · Jewelry · Food & Restaurant · Fashion · Footwear · Fitness · Furniture & Product Visualization · Corporate B2B
 
 ## About
 
-I develop visual communication systems for commercial brands and digital products, with a focus on clear concepts, strong hierarchy and sector-specific art direction. My broader work also includes web applications, AI-supported systems and digital solutions.
+I develop visual communication systems for commercial brands and digital products, focusing on clear concepts, strong hierarchy and sector-specific art direction. My broader work also includes web applications, AI-supported systems and digital solutions.
 
 ## Links
 
@@ -62,4 +75,4 @@ I develop visual communication systems for commercial brands and digital product
 
 ---
 
-More selected work and campaign visuals will be added progressively.
+**22 selected advertising and graphic design studies.**
